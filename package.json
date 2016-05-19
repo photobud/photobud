@@ -1,0 +1,22 @@
+{
+  "name": "photobud",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "latest",
+    "express": "^4.13.4",
+    "form-data": "1.0.0-rc3",
+    "mongodb": "latest",
+    "mongojs": "latest",
+    "multiparty": "latest"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "version": "1.0.0",
+  "author": "",
+  "license": "ISC",
+  "description": "Photobud",
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  }
+}
